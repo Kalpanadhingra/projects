@@ -1,0 +1,10 @@
+hi we are going to learn python input output functions .
+f.open()
+f.close()
+"r"- to read the information from file 
+"w"-write and it overwrite the data
+a-append at the last of file
+a+
+w+
+r+
++ is for reading and writting both 
