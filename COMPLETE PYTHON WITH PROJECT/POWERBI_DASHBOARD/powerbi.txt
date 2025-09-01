@@ -1,0 +1,43 @@
+power bi is a data visualization and business tool that converts data from different data sources to interactive dashboards and BI reports.
+
+POWER BI COMPONENTS:
+1) power query- For cleaning the data.
+2) power pivot - creating relationship between multiple data sources.
+3) power view - to create different type of charts.
+4) power bi service - it is a saas based online service to share.
+
+WHY USE BI ?
+speed
+user friendly 
+eye-catching andinteractive dashboards.
+maximum features (functions,visuals)
+cost - cheapest tool
+data connectivity - can connect to ~100 data source.
+
+powerbi desktop - used to create reports.
+power bi service- used to publish the report 
+
+three steps in power bi -
+* get the data in power bi - it involves locating the data and using an appropriate type of connection to read the data.
+* Choose the visualization - this involes selectiong the chart type to be created.
+* select the fields to be worked on - this involve moving the fields to the desired area.
+
+types of charts - 1) column chart 
+2)stack column chart
+3)pie chart 
+4)donut chart 
+5)funnel chart
+6)ribbon chart
+
+~ INClUDE AND EXClUDE:-
+it works like a filter , we just ctrl+click on the selected part andthe right click on any selected portion then selects include .
+the comparision dashboards is open .
+we also have exclude option , by selecting the columns and right click then selects the exclude , we remove that columns.
+to back then click undo button . 
+
+~ VIEW AND EXPORT 
+we can also view data and export the data as csv file , as we use filters to see the perticular data but in powerbi ,we just have to right click and selects the option 
+show data point as a table . then click on three dots and export the file as csv.
+
+~ CREATE A MAP IN BI-
+the main point to remember is we have the columns names like - state, country, region , postal code etc related to geographical data.
